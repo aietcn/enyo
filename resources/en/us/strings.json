@@ -1,0 +1,21 @@
+{
+	"#comment.1": "wechat",
+	"follow.csair.wechat": "follow us on Wechat",
+	"follow.csair.wechat.welcome": "Follow us on Wechat",
+
+	"#comment.2": "home tips",
+	"redirect.csair.official": "Going to official site",
+	"call.csair.service": "hotline support",
+	"download.csair.app": "download your app",
+
+	"#comment.3": "home navigation",
+	"home.findFlights": "Find Flights",
+	"home.fltStatus": "Flight Status",
+	"home.skypearl": "Skypearl",
+	"home.orderList": "My Trip",
+	"home.checkin": "Check-in",
+	"home.tripGuide": "Trip Guide",
+	"home.feedback": "Questions & Feedback",
+
+	"common.flightList": "Choose Flights"
+}
