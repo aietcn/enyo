@@ -1,21 +1,21 @@
 {
 	"#comment.1": "wechat",
-	"follow.csair.wechat": "关注南航微信公众号",
-	"follow.csair.wechat.welcome": "欢迎关注南航微信",
+	"follow.csair.wechat": "follow us on Wechat",
+	"follow.csair.wechat.welcome": "Follow us on Wechat",
 
 	"#comment.2": "home tips",
-	"redirect.csair.official": "正在前往南航官网",
-	"call.csair.service": "南航客服电话",
-	"download.csair.app": "下载南航手机客户端",
+	"redirect.csair.official": "Going to official site",
+	"call.csair.service": "hotline support",
+	"download.csair.app": "download your app",
 
 	"#comment.3": "home navigation",
-	"home.findFlights": "预订机票",
-	"home.fltStatus": "航班动态",
-	"home.skypearl": "明珠会员",
-	"home.orderList": "我的行程",
-	"home.checkin": "办登机牌",
-	"home.tripGuide": "出行向导",
-	"home.feedback": "意见反馈",
-	
-	"common.flightList": "航班列表"
+	"home.findFlights": "Search Flights",
+	"home.fltStatus": "Flight Status",
+	"home.skypearl": "Skypearl",
+	"home.orderList": "My Trip",
+	"home.checkin": "Check-in",
+	"home.tripGuide": "Trip Guide",
+	"home.feedback": "Questions & Feedback",
+
+	"common.flightList": "Choose Flights"
 }
